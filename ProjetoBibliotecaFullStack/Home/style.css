@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.container{
+     width: 100%;
+}
+
+.navbar{
+    background-color: #831919;
+    color: #fff;
+}
+
+nav{
+    background-color: #831919;
+    color: #fff;
+}
